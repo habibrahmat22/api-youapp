@@ -1,0 +1,4 @@
+1. lakukan npm install
+2. sequelize model:generate --name User --attributes username:string,email:string,password:string,status:string,last_login_at:date
+3.modife model and migration following es6
+4.sequelize db:migrate
